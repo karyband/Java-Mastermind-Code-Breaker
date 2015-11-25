@@ -1,0 +1,37 @@
+Karina Banda
+compile and output of the project:
+
+
+dhcp-10-5-26-248:workspace karinabanda$ cd 172Project1
+dhcp-10-5-26-248:172Project1 karinabanda$ javac *.java
+dhcp-10-5-26-248:172Project1 karinabanda$ java play
+Enter the number of positions we will be playing with
+
+4
+Enter colors separated by spaces: 
+
+a b c d
+Guess: aaaa
+Enter the amount of colors that are right and in the right positions
+1
+Enter the amount of colors that are right but not in the right position
+0
+Guess: abbb
+Enter the amount of colors that are right and in the right positions
+0
+Enter the amount of colors that are right but not in the right position
+2
+Guess: bacc
+Enter the amount of colors that are right and in the right positions
+3
+Enter the amount of colors that are right but not in the right position
+0
+Guess: bacd
+Enter the amount of colors that are right and in the right positions
+4
+Enter the amount of colors that are right but not in the right position
+0
+Computer has won!
+If you would like to start a new game with a different combination, type in 1. If you do not type in 0
+0
+DONE
